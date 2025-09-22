@@ -12,3 +12,5 @@ https://youtu.be/GSwo7iHxO44
 <img width="580" height="666" alt="image" src="https://github.com/user-attachments/assets/812c2f78-30e6-484b-84ab-4488e743e06f" />
 
 <img width="439" height="626" alt="image" src="https://github.com/user-attachments/assets/34fe313a-1627-4156-b17e-87479ea8ae09" />
+
+https://solve-cube.com/7x7/shag2
